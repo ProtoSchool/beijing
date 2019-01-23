@@ -7,7 +7,7 @@ We are a group of people passionate about the decentralized web and excited to l
 ## Organizers
 
 Our chapter's leadership team includes:
-* Bob Jiag 
+* Bob Jiang 
    * GitHub: [@bobjiang](https://github.com/bobjiang)
    * Twitter: [@bobjiang123](https://twitter.com/bobjiang123)
    * Email: [jiangxb@gmail.com](mailto:jiangxb@gmail.com)
