@@ -1,4 +1,4 @@
-# ProtoSchool [CHAPTER NAME] Code of Conduct
+# ProtoSchool Beijing Code of Conduct
 
 ## Our Pledge
 
