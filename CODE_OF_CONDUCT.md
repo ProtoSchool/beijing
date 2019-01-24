@@ -67,7 +67,7 @@ to agree with and abide by this Code of Conduct.
 ## Enforcement & Reporting Procedure
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
-reported by contacting members of the chapter organizing team: **Jaile Dai** 
+reported by contacting members of the chapter organizing team: **Jiale Dai** 
 (**[daijiale6239@gmail.com](mailto:daijiale6239@gmail.com)**) or **Bob Jiang** 
 (**[jiangxb@gmail.com](mailto:jiangxb@gmail.com)**). All complaints 
 will be reviewed and investigated and will result in a response that is deemed
