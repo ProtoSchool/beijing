@@ -14,7 +14,7 @@
 
 - 所有人请先阅读下方的read Code of Conduct （行为准则）
 
-- 此仓库维护者： [@terichadbourne](https://github.com/terichadbourne) | [@daijiale](https://github.com/daijiale) | [@bobjiang](https://github.com/bobjiang)
+- 此仓库维护者： [@daijiale](https://github.com/daijiale) | [@bobjiang](https://github.com/bobjiang)
 
 - 仓库将提供最新的学院公告和收录往期高质量的活动内容，方便大家收藏和学习
 
