@@ -19,7 +19,7 @@ Everyone is welcome here ! :raised_hands:
 
 - Everyone should read Code of Conduct below firstly ！
 
-- Repo Maintainer ： [@terichadbourne](https://github.com/terichadbourne) | [@daijiale](https://github.com/daijiale) | [@bobjiang](https://github.com/bobjiang)
+- Repo Maintainer ： [@daijiale](https://github.com/daijiale) | [@bobjiang](https://github.com/bobjiang)
 
 - We provide the latest announcements and previous resource about all the activities
 
