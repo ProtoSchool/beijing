@@ -40,13 +40,24 @@
 
 如果您期望加入组织团队，参与实际的组织工作，请联系 [@bobjiang](https://github.com/bobjiang) 和 [@daijiale](https://github.com/daijiale)☝️
 
-## 往期回顾
 
-### [LibP2P](https://libp2p.io)相关
+## 活动事件 
+
+### 即将举行
+
+我们希望即将举办的活动可以由社区爱好者共同设计和举办，因此我们设置了专门的话题区域链接：
+
+https://github.com/ProtoSchool/beijing/issues/6
+
+### 往期回顾
+
+以下是我们过去所有活动的资源记录，希望能帮助您学习和审查或作为即将开展的活动的示范。
+
+#### [LibP2P](https://libp2p.io)相关
 
 - [晨雾科技 : 为什么说libp2p将成为区块链和物联网的基础设施？](https://www.8btc.com/article/294956)
 
-### [IPFS](https://ipfs.io)相关
+#### [IPFS](https://ipfs.io)相关
 
 - [中国IPFS开发者沙龙 3rd](https://www.meetup.com/beijing-ipfs/events/255438836/)
 
