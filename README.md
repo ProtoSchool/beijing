@@ -48,11 +48,11 @@ Contact [@bobjiang](https://github.com/bobjiang) and  [@daijiale](https://github
 
 ### Upcoming
 
-We hope the upcoming events could be design and held by community enthusiasts together ，so we specifically open the discursive issue for upcoming event planning ： https://github.com/ProtoSchool/beijing/issues/6 
+We hope that upcoming events will be designed and held by community enthusiasts together, so we've opened a discussion issue for upcoming event planning ： https://github.com/ProtoSchool/beijing/issues/6 
 
 ### Past
 
-Here are the resources about all the activities we have in the past.
+Here are the resources about all the activities we've had in the past.
 
 Hope to help you learn and review or as a demonstration for upcoming activities.
 
