@@ -44,13 +44,23 @@ Our chapter's leadership team includes:
 
 Contact [@bobjiang](https://github.com/bobjiang) and  [@daijiale](https://github.com/daijiale)☝️ if you are interested in joining the team! 
 
-## Events Review
+## Events 
 
-### About [LibP2P](https://libp2p.io)
+### Upcoming
+
+We hope that upcoming events will be designed and held by community enthusiasts together, so we've opened a discussion issue for upcoming event planning ： https://github.com/ProtoSchool/beijing/issues/6 
+
+### Past
+
+Here are the resources about all the activities we've had in the past.
+
+Hope to help you learn and review or as a demonstration for upcoming activities.
+
+#### About [LibP2P](https://libp2p.io)
 
 - [MornmistTech : Why is libp2p going to be the infrastructure for blockchain and the IoT?](https://www.8btc.com/article/294956)
 
-### About [IPFS](https://ipfs.io)
+#### About [IPFS](https://ipfs.io)
 
 - [Chinese IPFS Developer Meetup , 3rd](https://www.meetup.com/beijing-ipfs/events/255438836/)
 
