@@ -19,7 +19,9 @@ Everyone is welcome here ! :raised_hands:
 
 - Everyone should read Code of Conduct below firstly ！
 
-- Repo Maintainer ： [@daijiale](https://github.com/daijiale) | [@bobjiang](https://github.com/bobjiang)
+- Former Maintainer：[@daijiale](https://github.com/daijiale) （2019.1-2019.6）
+
+- Maintainer ： [@bobjiang](https://github.com/bobjiang)
 
 - We provide the latest announcements and previous resource about all the activities
 
@@ -35,22 +37,26 @@ Our chapter's leadership team includes:
    * GitHub: [@bobjiang](https://github.com/bobjiang)
    * Twitter: [@bobjiang123](https://twitter.com/bobjiang123)
    * Email: [jiangxb@gmail.com](mailto:jiangxb@gmail.com)
-* Jiale Dai 
-   * GitHub: [@daijiale](https://github.com/daijiale)
-   * Twitter: [@daijiale6239](https://twitter.com/daijiale6239)
-   * Email: [daijiale6239@gmail.com](mailto:daijiale6239@gmail.com)
-* [@dongtianyi](https://github.com/dongtianyi)
-* [@facert](https://github.com/facert)
 
-Contact [@bobjiang](https://github.com/bobjiang) and  [@daijiale](https://github.com/daijiale)☝️ if you are interested in joining the team! 
+Contact [@bobjiang](https://github.com/bobjiang) and if you are interested in joining the team! 
 
-## Events Review
+## Events 
 
-### About [LibP2P](https://libp2p.io)
+### Upcoming
+
+We hope that upcoming events will be designed and held by community enthusiasts together, so we've opened a discussion issue for upcoming event planning ： https://github.com/ProtoSchool/beijing/issues/6 
+
+### Past
+
+Here are the resources about all the activities we've had in the past.
+
+Hope to help you learn and review or as a demonstration for upcoming activities.
+
+#### About [LibP2P](https://libp2p.io)
 
 - [MornmistTech : Why is libp2p going to be the infrastructure for blockchain and the IoT?](https://www.8btc.com/article/294956)
 
-### About [IPFS](https://ipfs.io)
+#### About [IPFS](https://ipfs.io)
 
 - [Chinese IPFS Developer Meetup , 3rd](https://www.meetup.com/beijing-ipfs/events/255438836/)
 
