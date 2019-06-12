@@ -14,7 +14,9 @@
 
 - 所有人请先阅读下方的read Code of Conduct （行为准则）
 
-- 此仓库维护者： [@daijiale](https://github.com/daijiale) | [@bobjiang](https://github.com/bobjiang)
+- 前任仓库维护者：[@daijiale](https://github.com/daijiale) （2019.1-2019.6）
+
+- 现任库维护者：[@bobjiang](https://github.com/bobjiang)
 
 - 仓库将提供最新的学院公告和收录往期高质量的活动内容，方便大家收藏和学习
 
@@ -31,14 +33,8 @@
    * GitHub: [@bobjiang](https://github.com/bobjiang)
    * Twitter: [@bobjiang123](https://twitter.com/bobjiang123)
    * Email: [jiangxb@gmail.com](mailto:jiangxb@gmail.com)
-* Jiale Dai 
-   * GitHub: [@daijiale](https://github.com/daijiale)
-   * Twitter: [@daijiale6239](https://twitter.com/daijiale6239)
-   * Email: [daijiale6239@gmail.com](mailto:daijiale6239@gmail.com)
-* [@dongtianyi](https://github.com/dongtianyi)
-* [@facert](https://github.com/facert)
 
-如果您期望加入组织团队，参与实际的组织工作，请联系 [@bobjiang](https://github.com/bobjiang) 和 [@daijiale](https://github.com/daijiale)☝️
+如果您期望加入组织团队，参与实际的组织工作，请联系 [@bobjiang](https://github.com/bobjiang)
 
 
 ## 活动事件 
