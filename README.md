@@ -19,7 +19,9 @@ Everyone is welcome here ! :raised_hands:
 
 - Everyone should read Code of Conduct below firstly ！
 
-- Repo Maintainer ： [@daijiale](https://github.com/daijiale) | [@bobjiang](https://github.com/bobjiang)
+- Former Maintainer：[@daijiale](https://github.com/daijiale) （2019.1-2019.6）
+
+- Maintainer ： [@bobjiang](https://github.com/bobjiang)
 
 - We provide the latest announcements and previous resource about all the activities
 
@@ -35,14 +37,8 @@ Our chapter's leadership team includes:
    * GitHub: [@bobjiang](https://github.com/bobjiang)
    * Twitter: [@bobjiang123](https://twitter.com/bobjiang123)
    * Email: [jiangxb@gmail.com](mailto:jiangxb@gmail.com)
-* Jiale Dai 
-   * GitHub: [@daijiale](https://github.com/daijiale)
-   * Twitter: [@daijiale6239](https://twitter.com/daijiale6239)
-   * Email: [daijiale6239@gmail.com](mailto:daijiale6239@gmail.com)
-* [@dongtianyi](https://github.com/dongtianyi)
-* [@facert](https://github.com/facert)
 
-Contact [@bobjiang](https://github.com/bobjiang) and  [@daijiale](https://github.com/daijiale)☝️ if you are interested in joining the team! 
+Contact [@bobjiang](https://github.com/bobjiang) and if you are interested in joining the team! 
 
 ## Events 
 
