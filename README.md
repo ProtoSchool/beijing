@@ -43,7 +43,7 @@ Our chapter's leadership team includes:
    * Email：[filapp@protonmail.com](mailto:filapp@protonmail.com)
 
 
-Contact [@bobjiang](https://github.com/bobjiang) and if you are interested in joining the team! 
+Contact [@bobjiang](https://github.com/bobjiang) [@btcioner](https://github.com/btcioner)and if you are interested in joining the team! 
 
 ## Events 
 
