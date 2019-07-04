@@ -37,6 +37,11 @@ Our chapter's leadership team includes:
    * GitHub: [@bobjiang](https://github.com/bobjiang)
    * Twitter: [@bobjiang123](https://twitter.com/bobjiang123)
    * Email: [jiangxb@gmail.com](mailto:jiangxb@gmail.com)
+* Dapao Xie
+   * GitHub：[@btcioner](https://github.com/btcioner)
+   * Twitter：[@RalapXStartUp](https://twitter.com/RalapXStartUp/status/974723543580655616)
+   * Email：[filapp@protonmail.com](mailto:filapp@protonmail.com)
+
 
 Contact [@bobjiang](https://github.com/bobjiang) and if you are interested in joining the team! 
 
